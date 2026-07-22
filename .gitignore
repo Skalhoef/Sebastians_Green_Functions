@@ -24,8 +24,5 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Logs
-*.log
-
 # HPC output files (optional)
 slurm-*.out
